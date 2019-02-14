@@ -8,10 +8,7 @@
 </head>
 <body>
 gittest5 테스트
-<<<<<<< HEAD
 A test
-=======
 B test    
->>>>>>> 67d0695ee24844c2f53f0510dc3625a9894c390e
 </body>
 </html>
